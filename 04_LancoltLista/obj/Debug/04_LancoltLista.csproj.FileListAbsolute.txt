@@ -1,0 +1,11 @@
+D:\BD\AlgoII_LEV_B\04_LancoltLista\bin\Debug\04_LancoltLista.exe.config
+D:\BD\AlgoII_LEV_B\04_LancoltLista\bin\Debug\04_LancoltLista.exe
+D:\BD\AlgoII_LEV_B\04_LancoltLista\bin\Debug\04_LancoltLista.pdb
+D:\BD\AlgoII_LEV_B\04_LancoltLista\obj\Debug\04_LancoltLista.exe
+D:\BD\AlgoII_LEV_B\04_LancoltLista\obj\Debug\04_LancoltLista.pdb
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\04_LancoltLista\bin\Debug\04_LancoltLista.exe.config
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\04_LancoltLista\obj\Debug\04_LancoltLista.exe
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\04_LancoltLista\obj\Debug\04_LancoltLista.pdb
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\04_LancoltLista\bin\Debug\04_LancoltLista.exe
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\04_LancoltLista\bin\Debug\04_LancoltLista.pdb
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\04_LancoltLista\obj\Debug\04_LancoltLista.csprojResolveAssemblyReference.cache
