@@ -1,0 +1,6 @@
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\StrazsasLista\bin\Debug\StrazsasLista.exe.config
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\StrazsasLista\bin\Debug\StrazsasLista.exe
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\StrazsasLista\bin\Debug\StrazsasLista.pdb
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\StrazsasLista\obj\Debug\StrazsasLista.csprojResolveAssemblyReference.cache
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\StrazsasLista\obj\Debug\StrazsasLista.exe
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\StrazsasLista\obj\Debug\StrazsasLista.pdb
