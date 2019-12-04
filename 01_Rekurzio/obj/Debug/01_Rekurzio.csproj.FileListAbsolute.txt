@@ -1,0 +1,9 @@
+D:\BD\AlgoII_LEV_B\01_Rekurzio\bin\Debug\01_Rekurzio.exe.config
+D:\BD\AlgoII_LEV_B\01_Rekurzio\bin\Debug\01_Rekurzio.exe
+D:\BD\AlgoII_LEV_B\01_Rekurzio\bin\Debug\01_Rekurzio.pdb
+D:\BD\AlgoII_LEV_B\01_Rekurzio\obj\Debug\01_Rekurzio.csprojResolveAssemblyReference.cache
+D:\BD\AlgoII_LEV_B\01_Rekurzio\obj\Debug\01_Rekurzio.exe
+D:\BD\AlgoII_LEV_B\01_Rekurzio\obj\Debug\01_Rekurzio.pdb
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\01_Rekurzio\bin\Debug\01_Rekurzio.exe.config
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\01_Rekurzio\obj\Debug\01_Rekurzio.exe
+C:\Users\bvarga\Desktop\AlgoII_LEV_B\01_Rekurzio\obj\Debug\01_Rekurzio.pdb

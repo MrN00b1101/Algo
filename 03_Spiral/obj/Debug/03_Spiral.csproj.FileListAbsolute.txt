@@ -1,0 +1,9 @@
+D:\BD\AlgoII_LEV_B\03_Spiral\bin\Debug\03_Spiral.exe.config
+D:\BD\AlgoII_LEV_B\03_Spiral\bin\Debug\03_Spiral.exe
+D:\BD\AlgoII_LEV_B\03_Spiral\bin\Debug\03_Spiral.pdb
+D:\BD\AlgoII_LEV_B\03_Spiral\obj\Debug\03_Spiral.csprojResolveAssemblyReference.cache
+D:\BD\AlgoII_LEV_B\03_Spiral\obj\Debug\_03_Spiral.Form1.resources
+D:\BD\AlgoII_LEV_B\03_Spiral\obj\Debug\_03_Spiral.Properties.Resources.resources
+D:\BD\AlgoII_LEV_B\03_Spiral\obj\Debug\03_Spiral.csproj.GenerateResource.Cache
+D:\BD\AlgoII_LEV_B\03_Spiral\obj\Debug\03_Spiral.exe
+D:\BD\AlgoII_LEV_B\03_Spiral\obj\Debug\03_Spiral.pdb
